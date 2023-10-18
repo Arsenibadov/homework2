@@ -47,13 +47,7 @@ public class Main {
         var divisionWeight = twoBoxer % oneBoxer;
         System.out.println("Разница в весе " + divisionWeight + "кг!");
 
-        var totalHours = 640;
-        var normHours = 8;
-        var staff = totalHours / normHours;
-        System.out.println("Всего работников в компании " + staff );
-        staff = staff + 94;
-        var newHours =  totalHours / staff;
-        System.out.println("Если в компании работает " + staff + " человек,то всего " + newHours + " часа работы может быть поделено между сотрудниками ");
+        
 
 
 
